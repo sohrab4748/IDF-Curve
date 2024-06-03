@@ -1,6 +1,6 @@
 # <a href="https://agrimetsoft.com/idf_curve" target="_blank">IDF-Curve</a>
 What is the concept of Rainfall Intensity-Duration-Frequency (IDF)?
-Rainfall Intensity-Duration-Frequency (IDF) is a commonly employed concept in hydrology and civil engineering to evaluate and quantify the rainfall characteristics specific to a given location. It aids in comprehending the correlation between rainfall intensity, duration, and the frequency of occurrence.
+Rainfall <a href="https://agrimetsoft.com/idf_curve" target="_blank">Intensity-Duration-Frequency</a> (IDF) is a commonly employed concept in hydrology and civil engineering to evaluate and quantify the rainfall characteristics specific to a given location. It aids in comprehending the correlation between rainfall intensity, duration, and the frequency of occurrence.
 
 Each component signifies the following:
 
